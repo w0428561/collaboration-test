@@ -1,3 +1,3 @@
 (() =>{
-    window.alert("I am the conflict!");
+    window.alert("Badgers Rule!");
 })()
